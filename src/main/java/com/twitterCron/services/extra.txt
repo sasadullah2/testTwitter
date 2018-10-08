@@ -1,0 +1,69 @@
+@ImranKhanPTI
+@CMShehbaz
+@SenRehmanMalik
+@JahangirKTareen
+@ShkhRasheed
+@MaryamNSharif
+@sherryrehman
+@bbhuttozardari
+@Mushahid
+@Asad_Umar
+Chaudhry Nisar
+#MaryamNawaz
+#SupremeCourt
+PML-N
+Farooq Sattar
+MQM
+PPP
+PTI
+JI
+MMA
+@PTIofficial
+@hamidmirpak
+@AbidSherAli
+
+
+
+
+{ "_id" : "452830010", "botScore" : 0.0013611897321404152, "spreadScore" : 0.13795344444444443, "influenceScore" : 0.04646545976791543 }
+{ "_id" : "19441756", "botScore" :  0.0012616932230026553, "spreadScore" : 0.013352305555555555, "influenceScore": 0.008611272203783946 }
+{ "_id" : "339040963", "botScore" : 0.0012183789109573519, "spreadScore" : 0.07538277777777778, "influenceScore" : 0.019056768161219304 }
+{ "_id" : "131763362", "botScore" : 0.0014187924969112314, "spreadScore" : 0.022373805555555557, "influenceScore": 0.021533552348481987 }
+{ "_id" : "453507741", "botScore" : 0.0015543510151536995, "spreadScore" : 0.1314081388888889, "influenceScore" :  0.04273969320041381 }
+{ "_id" : "434071161", "botScore" : 0.0014828129117616376, "spreadScore" : 0.10679911111111111, "influenceScore" : 0.02494607736952959 }
+{ "_id" : "450504440", "botScore" : 0.0013611897321404152, "spreadScore" : 0.06937394444444445, "influenceScore" : 0.013242339942407685 }
+{ "_id" : "146832501", "botScore" : 0.004775575529426348, "spreadScore" :  0.01479286111111111, "influenceScore" : 0.010875661546842434 }
+{ "_id" : "136932734", "botScore" : 0.0019457839054003979, "spreadScore" : 0.11066772222222222, "influenceScore" : 0.05158083630464807 }
+{ "_id" : "122453931", "botScore" : 0.0016347149115980926, "spreadScore" : 0.22263602777777777, "influenceScore" : 0.09329663189628534 }
+d("5b31ccf54ec94919949f5edc"), "spreadScore" : 0.13795344444444443, "truthinessScore" : 0.373015873015873, "influenceScore" : 0.04646545976791543 }
+d("5b31ccf84ec94919949f5edd"), "spreadScore" : 0.013352305555555555, "truthinessScore": 0.1693121693121693, "influenceScore" : 0.008611272203783946 }
+d("5b31ccf84ec94919949f5ede"), "spreadScore" : 0.07538277777777778, "truthinessScore" : -0.45698924731182794, "influenceScore" : 0.019056768161219304 }
+d("5b31ccf84ec94919949f5edf"), "spreadScore" : 0.022373805555555557, "truthinessScore": -0.8115183246073299, "influenceScore" : 0.021533552348481987 }
+d("5b31ccf84ec94919949f5ee0"), "spreadScore" : 0.1314081388888889, "truthinessScore"  : -0.27450980392156865, "influenceScore" : 0.04273969320041381 }
+d("5b31ccf84ec94919949f5ee1"), "spreadScore" : 0.10679911111111111, "truthinessScore" : -0.5873015873015873, "influenceScore" : 0.02494607736952959 }
+d("5b31ccf84ec94919949f5ee2"), "spreadScore" : 0.06937394444444445, "truthinessScore" : 0.05142857142857143, "influenceScore" : 0.013242339942407685 }
+d("5b31ccf84ec94919949f5ee3"), "spreadScore" : 0.01479286111111111, "truthinessScore" : -0.9193548387096774, "influenceScore" : 0.010875661546842434 }
+d("5b31ccf84ec94919949f5ee4"), "spreadScore" : 0.11066772222222222, "truthinessScore" : 0.005780346820809248, "influenceScore" : 0.05158083630464807 }
+d("5b31ccf84ec94919949f5ee5"), "spreadScore" : 0.22263602777777777, "truthinessScore" : 0.9587628865979382, "influenceScore" : 0.09329663189628534 }
+
+
+{"userId": 452830010,"screenName": "@Asad_Umar"	  , "botScore": 0.001361190	,"spreadScore": 0.137953444,	"influenceScore": 0.046465460,	"truthinessScore": 0.373015873     }, {"userId": 19441756,	"screenName": "@Mushahid" , "botScore": 0.001261693	,"spreadScore": 0.013352306,	"influenceScore": 0.008611272,	"truthinessScore": 0.169312169     }, {"userId": 339040963,"screenName": "@bbhuttozardari" , "botScore": 0.001218379	,"spreadScore": 0.075382778,	"influenceScore": 0.019056768,	"truthinessScore": -0.456989247}, {"userId": 131763362,"screenName": "@sherryrehman"	  , "botScore": 0.001418792	,"spreadScore": 0.022373806,	"influenceScore": 0.021533552,	"truthinessScore": -0.811518325}, {"userId": 453507741,"screenName": "@MaryamNSharif"  , "botScore": 0.001554351	,"spreadScore": 0.131408138,	"influenceScore": 0.042739693,	"truthinessScore": -0.274509804}, {"userId": 434071161,"screenName": "@ShkhRasheed"	  , "botScore": 0.001482813	,"spreadScore": 0.106799111,	"influenceScore": 0.024946077,	"truthinessScore": -0.587301587}, {"userId": 450504440,"screenName": "@JahangirKTareen", "botScore": 0.001361190	,"spreadScore": 0.069373944,	"influenceScore": 0.013242340,	"truthinessScore": 0.051428571 }, {"userId": 146832501,"screenName": "@SenRehmanMalik" , "botScore": 0.004775576	,"spreadScore": 0.014792861,	"influenceScore": 0.010875662,	"truthinessScore": -0.919354839}, {"userId": 136932734,"screenName": "@CMShehbaz"	  , "botScore": 0.001945784	,"spreadScore": 0.110667722,	"influenceScore": 0.051580836,	"truthinessScore": 0.005780347     },{"userId": 122453931,"screenName": "@ImranKhanPTI"	  , "botScore": 0.001634715	,"spreadScore": 0.222636028,	"influenceScore": 0.093296632,	"truthinessScore": 0.958762887 }
+
+
+{
+        "_id" : "1007973532507213825",
+        "createdAt"             : NumberLong("1529154592000"),
+        "text"                  : "A special thanks to Azlan Askari for drawing this beautiful dream for Pakistan which we used for our Eid cards this… https://t.co/k7mof3lNI7",
+        "source"                : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "isFavorited"           : false,
+        "isRetweeted"           : false,
+        "favoriteCount"         : 7843,
+        "placeId"               : "",
+        "retweetCount"          : 1897,
+        "isPossiblySensitive"   : false,
+        "lang"                  : "en",
+        "hashtags"              : [ ],
+        "userId"                : "122453931"      ,
+        "verified"              : true       ,
+        "tweetCredScore" : 3
+}
